@@ -1,0 +1,465 @@
+fccs_id,fccs_name
+1,Black cottonwood-Douglas-fir-quaking aspen forest
+2,Western hemlock-western redcedar-Douglas-fir forest
+3,Douglas-fir forest
+4,Douglas-fir/ceanothus forest
+5,Douglas-fir-white fir forest
+0,Miscellaneous light fuel
+1,Black cottonwood-Douglas-fir-quaking aspen forest
+2,Western hemlock-western redcedar-Douglas-fir forest
+3,Douglas-fir forest
+4,Douglas-fir/ceanothus forest
+5,Douglas-fir-white fir forest
+6,Oregon white oak-Douglas-fir forest
+7,Douglas-fir-sugar pine-tanoak forest
+8,Western hemlock-Douglas-fir-western redcedar/vine maple forest
+9,Douglas-fir-western hemlock-western redcedar/vine maple forest
+10,Western hemlock-Douglas-fir-Sitka spruce forest
+11,Douglas-fir/western hemlock-Sitka spruce forest
+12,Red fir-mountain hemlock-lodgepole pine-western white pine forest
+13,Mountain hemlock-Pacific silver fir forest
+14,California black oak woodland
+15,Jeffrey pine-red fir-white fir/greenleaf-snowbrush forest
+16,Jeffrey pine-ponderosa pine-Douglas-fir-California black oak forest
+17,Red fir forest
+18,Douglas-fir/oceanspray forest
+19,White fir-giant sequoia-sugar pine forest
+20,Western juniper/curl-leaf mountain mahogany woodland
+21,Young lodgepole pine forest
+22,Mature lodgepole pine forest
+23,Mature lodgepole pine forest with bark beetle damage
+24,Pacific ponderosa pine-Douglas-fir forest
+25,Pinyon-Utah juniper forest
+26,Interior ponderosa pine-limber pine forest
+27,Ponderosa pine-two needle pinyon-Utah juniper forest
+28,Ponderosa pine savanna
+29,Interior ponderosa pine-Engelmann spruce-Douglas-fir forest
+30,Turbinella oak-alderleaf mountain mahogany shrubland
+32,Ponderosa pine/pinyon pine-Utah juniper forest
+33,Gambel oak/big sagebrush shrubland - 20-40 years post wildfire
+34,Interior Douglas-fir-interior ponderosa pine/gambel oak forest
+36,California live oak-blue oak woodland
+37,Ponderosa pine-Jeffrey pine forest
+38,Douglas-fir-madrone-tanoak forest
+39,Sugar pine-Douglas-fir-oak forest
+40,Tobosa-grama grassland invaded by shrubs & annual grasses
+41,Idaho fescue-bluebunch wheatgrass grassland
+42,Quaking aspen/Engelmann spruce forest
+43,Arizona white-gray-Emory oak woodland
+44,Scrub oak chaparral shrubland
+45,Madrean pine-oak forest
+46,Chamise chaparral shrubland
+47,Redwood-tanoak forest
+48,Douglas-fir-tanoak-madrone-bay forest
+49,Creosote bush shrubland
+51,Coastal sage shrubland
+52,Douglas-fir-Pacific ponderosa pine/oceanspray forest
+53,Pacific ponderosa pine forest
+54,Douglas-fir-white fir-ponderosa pine forest
+55,Western juniper/sagebrush savanna
+56,Sagebrush shrubland - exotic species
+57,Wheatgrass-cheatgrass grassland
+58,Western juniper/sagebrush savanna - post prescribed burn
+59,Subalpine fir-Engelmann spruce-Douglas-fir-lodgepole pine forest
+60,Sagebrush shrubland - post prescribed burn
+61,Whitebark pine/subalpine fir forest
+62,Huckleberry-heather shrublands - 7 years post wildfire
+63,Showy sedge-alpine black sedge grassland
+65,Tussock grass-oatgrass grassland
+66,Bluebunch wheatgrass-bluegrass grassland
+67,Interior ponderosa pine-Douglas-fir forest
+69,Western juniper/sagebrush-bitterbrush shrubland
+70,Subalpine fir-lodgepole pine-whitebark pine-Engelmann spruce forest
+71,Ohia/Florida hopbush-kupaoa forest
+72,Ohia/uluhe forest
+73,Koa/pukiawe forest
+74,Mamani-naio savanna
+75,Slash pine/New Caledonia pine forest
+76,Slash pine/molasses grass forest
+77,Eucalyptus plantation forest
+78,Florida hopbush-Mauna Loa beggarticks shrubland
+79,Pili grass-broomsedge bluestem grassland
+80,Fountain grass grassland
+81,Pukiawe/Columbia bluestem grassland
+82,White leadtree/Guinea grass shrubland
+83,Molasses grass grassland - invaded by exotic species
+84,Ohia/Broomsedge bluestem savanna - invaded by exotic species
+85,Black spruce/lichen forest
+86,Black spruce/feathermoss woodland
+87,Black spruce/feathermoss forest
+88,Black spruce/sphagnum moss forest
+89,Black spruce/cottonsedge woodland
+90,White oak-northern red oak forest
+91,White spruce/prickly rose forest
+92,Quaking aspen-paper birch-white spruce-black spruce forest
+93,Paper birch-quaking aspen forest
+94,Balsam poplar-quaking aspen forest
+95,Willow-mountain alder shrubland
+97,Cottongrass grassland
+98,Marsh labrador tea-lingonberry tundra shrubland
+99,Bluejoint reedgrass grassland
+100,Altai fescue grassland
+101,White spruce forest
+102,White spruce forest with beetle damage
+103,White spruce-paper birch forest
+104,White spruce-paper birch forest with beetle damage
+105,Paper birch-quaking aspen-white spruce forest
+106,Red spruce-balsam fir forest - post windthrow
+107,Pitch pine/scrub oak forest
+109,Eastern white pine-northern red oak-red maple forest
+110,American beech-yellow birch-sugar maple forest
+114,Virginia pine-pitch pine-shortleaf pine forest
+115,Rhododendron-blueberry-mountain laurel shrubland
+120,Oak-pine/mountain laurel forest
+121,Oak-pine/mountain laurel forest with beetle damage
+123,White oak-northern red oak-black oak-hickory forest
+124,Pitch pine-oak forest
+125,Oak-hickory-pine-eastern hemlock forest
+129,Green ash-American elm forest
+131,Bluestem-Indian grass-switchgrass grassland
+133,Tall fescue-foxtail-purple bluestem grassland
+134,White oak-northern red oak-hickory forest
+135,Eastern redcedar-oak/bluestem savanna
+138,Red pine-eastern white pine forest
+140,Jack pine/black spruce forest
+142,Quaking aspen-paper birch forest
+143,Quaking aspen-paper birch-white spruce-balsam fir forest
+146,Mature jack pine forest
+147,Jack pine savanna
+148,Young jack pine forest
+152,Red pine-white pine forest - spruce budworm
+154,Bur oak savanna
+155,Red spruce-balsam fir forest
+156,Slash pine plantation forest
+157,Loblolly-shortleaf pine-mixed hardwood forest
+158,Loblolly-shortleaf pine-mixed hardwood forest with beetle damage
+161,Loblolly-slash pine plantation
+162,Loblolly-slash pine plantation - post thin
+164,Sand pine forest
+165,Longleaf pine/three-awned grass-pitcher plant savanna - managed with prescribed fire
+166,Longleaf pine/three-awned grass-pitcher plant savanna - fire exclusion
+168,Gallberry-fetterbush shrubland
+170,Pond pine/gallberry-fetterbush shrubland
+173,Live oak/sea oats savanna
+174,Live oak-sabal palm forest
+175,Smooth cordgrass-black needlerush grassland
+176,Smooth cordgrass-black needlerush grassland invaded by common reed
+178,Loblolly-shortleaf pine forest - 10-15 years post clearcut
+180,Red maple-oak-hickory-sweetgum forest
+181,Pond pine forest
+182,Longleaf pine-slash pine/saw palmetto-gallberry forest - fire exclusion
+183,Loblolly-shortleaf pine forest - precommercial thin
+184,Longleaf pine/turkey oak forest 20 yr postfire
+185,Longleaf pine/turkey oak forest 1-2 yr postfire
+186,Turkey oak-bluejack oak forest
+187,Longleaf pine/yaupon forest
+188,Sand pine-oak forest
+189,Sand pine-oak forest with sparse understory
+190,Slash pine-longleaf pine/gallberry forest
+191,Longleaf pine-slash pine/gallberry forest - managed with prescribed fire
+196,Loblolly pine/bluestem forest
+203,Sawgrass-Muhlenbergia grassland
+208,Grand fir-Douglas-fir forest
+210,Pinyon-Utah juniper woodland
+211,Ponderosa pine forest - high density
+212,Ponderosa pine forest - post thin
+213,Wheatgrass-cheatgrass grassland - post prescribed burn
+214,Giant sequoia-white fir-sugar pine forest
+215,Douglas-fir-madrone/tanoak forest
+216,Gambel oak-bigtooth maple forest
+217,Gambel oak-bigtooth maple forest - post prescribed burn
+218,Gambel oak/big sagebrush shrubland
+219,Ponderosa pine-white fir/quaking aspen forest
+220,Ponderosa pine-white fir/quaking aspen forest - post prescribed burn
+221,Wheatgrass-ryegrass grassland
+222,Interior ponderosa pine forest
+223,Douglas-fir-white fir-interior ponderosa pine forest - post wildfire
+224,Quaking aspen forest
+225,Quaking aspen forest - post prescribed burn
+226,White fir-gambel oak forest
+227,White fir forest
+228,Interior ponderosa pine-limber pine forest
+229,Ponderosa pine/Utah juniper forest
+230,Pinyon-Utah juniper forest - post prescribed burn
+231,Gambel oak-Rocky Mountain juniper-ponderosa pine forest
+232,Mesquite savanna
+233,Sagebrush shrubland
+234,Sagebrush shrubland - post prescribed burn
+235,Idaho fescue-bluebunch wheatgrass grassland - postfire
+236,Tobosa-grama grassland
+237,Huckleberry-heather shrubland
+238,Pacific silver fir-mountain hemlock forest
+239,Douglas-fir-sugar pine-tanoak forest - 6 years post wildfire
+240,Saw palmetto/three-awned grass shrubland
+241,Longleaf-loblolly pine forest with hurricane damage
+242,Longleaf-loblolly pine forest with hurricane damage - post prescribed burn
+243,Pitch pine/scrub oak shrubland
+260,Ohia/uluhe forest - 5 years post wildfire
+261,Pili grass-broomsedge bluestem grassland - 5 years post wildfire
+262,Molasses grass grassland - 5 years post prescribed fire
+263,Ohia/broomsedge bluestem savanna - 5 years post prescribed burn
+264,Post-blackjack oak forest
+265,Balsam fir-white spruce-mixed hardwood forest
+266,Sugar maple-basswood forest
+267,American beech-yellow birch-sugar maple-red spruce forest
+268,American beech-yellow birch-sugar maple-eastern hemlock forest
+269,Sugar maple-yellow poplar-American beech-oak forest
+270,Red spruce-Fraser fir/rhododendron forest
+272,Mangrove forest
+273,Engelmann spruce-Douglas-fir-white fir-ponderosa pine forest
+274,American beech-sugar maple forest
+275,Chestnut-white-northern red oak forest
+276,Oak-pine-magnolia forest
+279,Black spruce-northern white cedar-larch forest
+280,Bluestem-Gulf cordgrass grassland
+281,Shortleaf pine-post oak-black oak forest
+282,Loblolly pine forest
+283,Willow-laurel-water oak forest
+284,Green ash-American elm-silver maple-cottonwood forest
+286,Limber pine-ponderosa pine forest
+287,Eastern white pine-eastern hemlock forest
+288,Bald cypress-water tupelo forest
+289,Pond cypress/muhly-sawgrass savanna
+291,Longleaf-slash pine/saw palmetto forest
+301,Fremont cottonwood-California sycamore forest
+302,Willow/sedge grassland
+303,Cottonwood/willow savanna
+304,Engelmann spruce-subalpine fir/horsetail forest
+305,Red alder forest
+306,Knobcone pine forest
+307,Paloverde shrubland
+308,Low sagebrush shrubland
+309,Blackbrush shrubland
+310,Greasewood shrubland
+311,Saltbush shrubland
+312,Gambel oak/sagebrush shrubland
+313,Mountain mahogany shrubland
+314,Limber pine-bristlecone pine forest
+315,Showy sedge-black alpine sedge grassland
+316,Coyotebush-ceanothus shrubland
+317,Bigtooth maple forest
+318,Bluejoint reedgrass-water sedge grassland
+319,Pacific silver fir-Sitka alder forest
+320,Western larch forest
+321,Western hemlock-Alaska cedar forest
+322,Sitka spruce-western hemlock forest
+323,Quaking aspen/sagebrush boreal woodland
+324,White spruce woodland
+325,White spruce-mountain hemlock forest
+326,Willow- birch shrubland
+327,Marsh Labrador tea/cottongrass grassland
+328,Hemlock / sedge-cottongrass savanna
+329,Mountain heath tundra shrubland
+330,American dunegrass grassland
+331,Sitka alder-salmonberry shrubland
+332,Balsam poplar-paper birch forest
+333,Dryas tundra shrubland
+334,Mountain heather tundra shrubland
+335,Sweetgale shrubland
+336,Lyngbye's sedge-alkaligrass grassland
+337,Softstem bulrush-needle spikerush grassland
+338,Water sedge-tall cottongrass grassland
+339,Nootka lupine-sedge grassland
+340,Pacific maritime dwarf shrub wetland
+341,Arctic tussock tundra shrubland
+342,Hawai'i bog shrubland
+343,Hawai'i wet cliff shrubland
+344,Montane-subalpine dry grassland
+345,Hawai'i montane-subalpine mesic grassland
+346,Hawai'i alpine dwarf shrubland
+347,Hawai'i dry cliff shrubland
+348,Hawai'i dry coastal strand shrubland
+349,Hawai'i subalpine mesic shrubland
+350,Balsam poplar-white spruce forest
+351,Ericaceous bog shrubland
+352,Desert sparse shrubland
+353,Semi-desert grassland and steppe
+354,Havard oak shrubland
+355,Hemlock-Alaska cedar / blueberry forest
+356,Black spruce-tamarack/sphagnum moss forest
+357,Balsam poplar-black cottonwood forest
+358,Alder and willow tall swamp shrubland
+359,Arctic sedge tussock lichen tundra shrubland
+360,Oregon white oak forest
+361,Oregon white oak  -- ponderosa pine forest
+401,Holly-privet shrubland
+402,Pine/holly-privet forest
+403,Post-blackjack-white oak forest
+404,Yellow poplar-sugar maple-basswood forest
+405,Northern red oak montane forest
+406,American beech-southern magnolia-oak forest
+407,Darlington oak forest
+408,Quaking aspen-bur oak forest
+409,Virginia pine-chestnut oak/little bluestem forest
+410,Table Mountain pine-chestnut oak forest
+411,Ashe juniper-oak savanna
+412,Dwarf bilberry-bog blueberry shrubland
+413,Pin oak/bluestem forest
+414,Eastern redcedar/big bluestem savanna
+415,Bluestem-forb grassland
+416,Chinkapin oak-eastern redcedar/bluestem savanna
+417,Little bluestem-blackseed speargrass grassland
+418,White spruce/juniper/little bluestem savanna
+419,Blackjack oak-post oak/bluestem savanna
+420,Big bluestem-bluejoint grassland
+421,Chinkapin oak-bur oak/giant cane forest
+422,Post oak-shortleaf pine/bluestem-Indiangrass savanna
+423,Oak/bluestem-Indiangrass savanna
+424,Pondcypress/dahoon holly/sedge forest
+425,Swamp tupelo-sweetbay magnolia forest
+426,Sugarberry/acacia forest
+427,Red spruce-northern white cedar-tamarack forest
+428,Melaleuca forest
+429,Black locust forest
+430,White oak-southern red oak forest
+431,Chinkapin oak-Shumard oak forest
+432,Florida poisontree-West Indian mahogany forest
+433,Pine-oak/American beachgrass savanna
+434,Post oak-southern red oak/little bluestem-Indiangrass forest
+435,Little bluestem-buffalograss grassland
+436,Shore little bluestem-paspalum grassland
+437,Saltmeadow cordgrass-switchgrass grassland
+438,Pondcypress/pond apple forest
+439,Pondcypress/swamp titi/maidencane savanna
+440,Pondcypress-cabbage palm-strangler fig forest
+441,Red maple-black ash/common winterberry forest
+442,Bulrush grassland
+443,Prairie cordgrass-bluejoint grassland
+445,Woollyfruit sedge-yellow sedge grassland
+448,Bald cypress-tupelo/swamp titi forest
+449,Pin oak-white oak/buttonbush forest
+450,Oak-Ashe juniper forest
+451,Texas live oak/roughleaf dogwood forest
+453,Bluestem-tall fescue-switchgrass grassland
+454,American beech-maple/American red raspberry forest
+455,Red pine forest
+456,Chinese tallow forest
+457,Florida strangler fig-gumbo limbo-cabbage palm forest
+458,Berlandier's fiddlewood-Texas ebony shrubland
+459,Northern oak forest
+460,Northern pine-oak forest
+461,Post oak-black oak forest
+462,Spruce-hardwood barrens
+463,Willow oak-water oak forest
+464,Loblolly pine-willow oak forest
+465,Post oak-southern red oak-loblolly pine forest
+466,Loblolly pine-post oak-southern red oak forest
+467,Northern and Central native ruderal forest
+468,Edwards Plateau floodplain terrace
+469,Northern and central ruderal wet meadow and marsh
+470,Southeastern native ruderal forest
+471,Ouachita novaculite glade and woodland
+472,Laurentian acidic rocky outcrop
+473,Texas plains xeric sandyland
+474,Acadian sub-boreal spruce flat
+475,Southern Coastal Plain herbaceous seep
+476,West Gulf Coastal Plain herbaceous seep and bog
+477,Central Florida wet prairie and herbaceous seep
+478,South Florida pine rockland
+479,Pacific Islands palm forest
+480,Hawai'i introduced wetland vegetation
+481,Caribbean Pterocarpus swamp
+482,South Florida dwarf cypress savanna
+483,Southern Vancouverian lowland ruderal grassland & shrubland
+484,Tamaulipan Saline Thornscrub
+485,Hawai'i introduced evergreen shrubland
+486,Northern Atlantic coastal plain calcareous ravine
+487,Semi-desert coastal scrub shrubland
+488,Atlantic coastal plain northern bog
+489,Interior West ruderal riparian scrub
+490,West gulf coastal plain flatwoods pond grassland
+491,East gulf coastal plain depression pondshore
+492,Southeastern coastal plain interdunal wetland
+493,Temperate Pacific freshwater emergent marsh
+494,Inter-mountain basins alkaline closed depression
+495,Caribbean emergent wetlands
+496,Western larch savanna
+497,North Pacific maritime coastal sand dune ruderal scrub & herb vegetation
+498,Interior western North American temperate ruderal grassland & shrubland
+499,Tamaulipan depression woodland
+500,Shrub steppe of the Llano Estacado escarpment
+501,Yellow poplar ruderal swamp forest
+502,Cumberland sandstone glade and barrens
+503,Panhandle Florida limestone glade
+504,Laurentian-Acadian calcareous rocky outcrop
+505,Northern Appalachian-Acadian rocky heath outcrop
+506,Idaho fescue-California oatgrass grassland
+507,North-central interior quartzite glade
+508,Southern and Central Appalachian mafic glade and barrens
+509,Southern Ridge and Valley calcareous glade and woodland
+511,Use this one: Southeastern coastal plain natural lakeshore
+512,Texas-Louisiana coastal prairie pondshore
+513,Southwest Florida dune and coastal grassland
+514,Pacific coastal dunes grassland
+516,Great lakes dune
+517,Caribbean coastal beach systems
+518,Northern and Central plains ruderal grassland and shrubland
+519,Southeastern ruderal grassland
+520,Caribbean drought deciduous dense woodland
+521,Caribbean semi-deciduous and drought deciduous forest on alluvium
+522,Caribbean seasonal evergreen and semi-deciduous forest on karst
+523,Caribbean seasonal evergreen and evergreen forest
+524,Caribbean evergreen and seasonal evergreen forest on karst
+525,Caribbean evergreen forest on serpentine
+526,Caribbean seasonal evergreen forest with coconut palm
+527,Pacific Islands ravine forest
+528,Great Basin & Intermountain ruderal shrubland
+529,Great Basin & Intermountain Introduced Annual and Biennial Forbland
+530,Temperate Pacific subalpine-montane wet meadow
+531,Rocky Mountain alpine-montane wet meadow
+532,Western ruderal marsh or wet meadow
+533,California ruderal grassland meadow
+534,Pacific islands savanna
+535,Northwestern Great Plains canyon shrubland
+538,Pacific Islands limestone forest
+540,Mesquite scrub with invasive grasses
+542,Colorado Plateau pinyon-juniper shrubland
+1201,Corn field - post harvest
+1202,Cotton field - post harvest
+1203,Rice field - post harvest
+1205,Soybean field - post harvest
+1206,Corn field - growing season
+1207,Cotton field - growing season
+1208,Rice field - growing season
+1209,Soybean field - growing season
+1223,Wheat field - post harvest
+1224,Wheat field - growing season
+1225,Small grains (other) field - post harvest
+1226,Small grains (other) field - growing season
+1227,Sugarbeet field - growing season
+1228,Bean field - growing season
+1229,Potato field - growing season
+1230,Other crop fields - growing season
+1231,Sugarcane field - post harvest
+1232,Miscellaneous vegetable or fruit field - growing season
+1241,Sugarbeet field - post harvest
+1242,Bean field - post harvest
+1243,Potato field - post harvest
+1244,Other crop fields - post harvest
+1245,Sugarcane field - growing season
+1247,Miscellaneous vegetable or fruit field - post harvest
+1252,Lentil field - post harvest
+1253,Lentil field - growing season
+1260,Biofuel field - post harvest
+1261,Fallow field - growing season
+1262,Pasture or grass field - grazed or mown
+1263,Biofuel field - growing season
+1264,Pasture or grass field - ungrazed or unmown
+1271,Tree nut field - no inter-row groundcover
+1272,Tree nut field - with inter-row groundcover
+1273,Tree fruit field - no inter-row groundcover
+1274,Tree fruit field - with inter-row groundcover
+1280,Bluegrass or grass seed field - post harvest or mown
+1281,"Pasture, hay, or alfalfa field - grazed or harvested"
+1282,Bluegrass or grass seed field - unmown or unharvested
+1283,"Pasture, hay, or alfalfa field - ungrazed or unharvested"
+1290,Winter wheat and corn (double crop) field
+1291,Wheat and soybean (double crop) field
+1292,Other grain and corn (double crop) field
+1293,Lettuce and durum wheat (double crop) field
+1294,Lettuce and upland cotton (double crop) field
+1295,Wheat and sorghum (double crop) field
+1296,Wheat and cotton (double crop) field
+1297,Soybean and cotton (double crop) field
+1298,Soybean and other grain (double crop) field
+1299,Corn and soybean (double crop) field
